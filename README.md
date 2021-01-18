@@ -3,17 +3,13 @@
 </strong>
 
 <p align="center">
-    I'm a Computer Engineering Student at Insper (Instituto de Ensino e Pesquisa).
-</p>
-
-<h3 align="center">
     I'm a Computer Engineering student, but I'm still not sure what I want to do with my life! And that's a good thing! It means I have an opportunity to get to know a lot of different things, and that's where the fun begins. I love to learn new things, teaching and overcoming challenges, in group or alone.
     Not a surprise this is my favorite quote: "We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard"- John F. Kennedy.
-</h3>
+</p>
 
 <h4 align="center">
     Here is my <a href="https://drive.google.com/file/d/1G4Fi9QnGiBLHGuQgfgN9SBImdnBTiZbr/view?usp=sharing">CV</a>
-    <br>:
+    <br>
 </h4>
 
 <h4 align="center">
