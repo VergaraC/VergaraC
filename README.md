@@ -12,6 +12,13 @@
 </h3>
 
 <h4 align="center">
+    Here is my CV:
+</h4>
+<p align='center'>
+https://drive.google.com/file/d/1G4Fi9QnGiBLHGuQgfgN9SBImdnBTiZbr/view?usp=sharing
+</p>
+
+<h4 align="center">
     Here are my social medias and email:
 </h4>
 
