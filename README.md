@@ -17,7 +17,7 @@
 </h4>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/victor-vergara-arcoverde-de-albuquerque-cavalcanti-1a5b1616a">Linkedin</a>
+    [![Linkedin Badge](https://img.shields.io/badge/-Antonio%20Fuziy-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/)](https://www.linkedin.com/in/victor-vergara-arcoverde-de-albuquerque-cavalcanti-1a5b1616a)
     <br>
     <a href="https://github.com/VergaraC">Github</a>
     <br>
