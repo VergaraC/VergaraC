@@ -8,7 +8,7 @@
 </p>
 
 <h4 align="center">
-    Here is my <a href="https://drive.google.com/file/d/1OLuPCHXc6jrP_cgb4-R2mY4X_m8vw9AB/view?usp=sharing">CV</a>
+    Here is my <a href="https://drive.google.com/file/d/1QWo8PLLdJ4-4FBnpqFl6_ByTHLqwAtS7/view?usp=sharing">CV</a>
     <br>
 </h4>
 
