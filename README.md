@@ -3,12 +3,18 @@
 </strong>
 
 <p align="center">
-    I'm a Computer Engineering student, but I'm still not sure what I want to do with my life! And that's a good thing! It means I have an opportunity to get to know a lot of different things, and that's where the fun begins. I love to learn new things, teaching and overcoming challenges, in group or alone.
-    Not a surprise this is my favorite quote: "We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard"- John F. Kennedy.
+    Hi! I'm Victor! I'm a Computer Engineering student in the 8th semester with a passion for
+entrepreneurship and Innovation.
+My goals at the moment are to learn more about Innovation, especially Open Innovation and
+relationships between companies and Startups, how to strenghten and incentivize them better,
+while gaining experience in the area.
+Being Part of SMASH Robotics since 2019, and quickly becoming a director I was able to learn how
+to lead, manage, recruit and teach people on the job, while learning about technologies that I use in
+my projects.
 </p>
 
 <h4 align="center">
-    Here is my <a href="https://drive.google.com/file/d/1QWo8PLLdJ4-4FBnpqFl6_ByTHLqwAtS7/view?usp=sharing">CV</a>
+    Here is my <a href="https://drive.google.com/file/d/1ZdqAMIzc6TZ9o0Sjso711DEjvmDsuvlE/view?usp=share_link">CV</a>
     <br>
 </h4>
 
